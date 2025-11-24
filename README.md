@@ -4,6 +4,8 @@ This project is a Voice-First Technical Interviewer that assesses candidates on 
 
 Live Demo:https://interviewer-8m7ba066c-abhijeet1509s-projects.vercel.app
 
+Live demo video : https://drive.google.com/file/d/1CptI5-0H1IS5HBqb_HL-lgmxM-HFxyj2/view?usp=sharing
+
 I decided to keep the architecture lean to prioritize performance. Instead of a complex microservices backend, I built a "thick client" using React 19 and Vite that connects directly to the AI model.
 
 Model: Gemini 2.0 Flash (Exp)I chose this model because it was the most critical decision for performance.
